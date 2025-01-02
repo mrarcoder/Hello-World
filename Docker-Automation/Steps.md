@@ -1,4 +1,7 @@
-1. Open 'Docker-Desktop-Windwos.cmd' in any Text Editor (VS Code)
+Setup Auto Run Specidic Docker Contaienr:
+=========================================
+
+1. Open 'Docker-Desktop-Windwos.cmd' in Text Editor (VS Code / Nodepad)
 2. Edit Container ID or name and save it
 3. Copy 'Docker-Desktop-Windwos.cmd'
 4. Open run prompt by press (win + R)
